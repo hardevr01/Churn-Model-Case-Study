@@ -1,1 +1,2 @@
-# Churn-Model-Case-Study
+
+# Churn Classification and Model Selection in Python
